@@ -1,5 +1,6 @@
 # Everything needed in production
 wheel==0.26.0
+libffi>=3.2.1
 
 # Flask
 Flask==0.10.1
