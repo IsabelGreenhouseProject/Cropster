@@ -22,7 +22,7 @@ Then run the following commands to bootstrap your environment.
 
     git clone https://github.com/IsabelGreenhouseProject/cropster
     cd cropster
-    pip install -r requirements/dev.txt
+    sudo pip install -r requirements/dev.txt
     python manage.py server
 
 You will see a pretty welcome screen.
